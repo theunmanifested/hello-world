@@ -1,7 +1,4 @@
 This is random text for the git practice part of PreWork for SD28
 
-<<<<<<< HEAD
-Adding more text
-=======
+Local Change --> Adding more text
 This text is edited from GitHub (tsk, tsk, shouldn't do)
->>>>>>> c33a128aca5f826fcae0fcd88647c7b412da2062
